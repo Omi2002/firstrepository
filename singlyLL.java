@@ -1,6 +1,6 @@
 public class singlyLL 
 {
-    class Node
+    class link
     {
         int data;
         Node next;
